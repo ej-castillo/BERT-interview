@@ -1,2 +1,6 @@
 bert_output
 *.data-00000-of-00001
+final/output_csv/
+final/deep_speech/
+final/google_transcript/
+final/human_transcript/
